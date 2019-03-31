@@ -1,7 +1,7 @@
 # pic-cap
 
-> picture capture, and upload to store, and get url, for md/html/..., .etc
-> 图片捕获，上传到服务器，获得链接，给 md/html/等其他场景使用
+> * picture capture, and upload to store, and get url, for md/html/..., .etc
+> * 图片捕获，上传到服务器，获得链接，给 md/html/等其他场景使用
 
 ## 痛点
 
