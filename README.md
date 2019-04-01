@@ -3,7 +3,7 @@
 > * picture capture, and upload to store, and get url, for md/html/..., .etc
 > * 图片捕获，上传到服务器，获得链接，给 md/html/等其他场景使用
 
-## 截图工具痛点
+## 截图工具痛点/需求
 
 有需求，欢迎 [crete issue](https://github.com/ReAlign/pic-cap/issues)
 
