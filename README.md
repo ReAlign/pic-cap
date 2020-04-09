@@ -24,3 +24,24 @@
 * [ ] 集成 录屏/gif 功能[issue#1](https://github.com/ReAlign/pic-cap/issues/1)
 * [ ] 截屏区域已标记编辑，就不能改变范围了[issue#2](https://github.com/ReAlign/pic-cap/issues/2)
 * [ ] ...
+
+## OS[Object Storage] 操作体验
+
+不管是 [NOS](https://www.163yun.com/product/nos) 还是 [OSS](https://oss.console.aliyun.com/overview)（没有接触其他 `OS` 服务），只有生硬的 `API`，个人使用时，完全需要自己搭建可视化环境，很不方便。
+
+* [ ] 官方 `API` 可视化
+  * NOS
+    * [ ] 增、删、改、查
+  * OSS
+    * 待完善...
+
+## 版本说明
+
+### 0.0.1-alpha
+
+[下载地址](https://github.com/ReAlign/pic-cap/blob/master/versions/0.0.1-alpha)
+
+* 基础截图
+  * 详细信息待完善
+* nos 可视化
+  * 详细信息待完善
