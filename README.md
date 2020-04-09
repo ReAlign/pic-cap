@@ -46,6 +46,6 @@
 
 下载地址
 
-* [mac-0.0.1-alpha](https://file.realign.pro/pic-cap/0.0.1-alpha/pic-cap-0.0.1-alpha.dmg)
+* [mac-0.0.1-alpha](http://file.realign.pro/pic-cap/0.0.1-alpha/pic-cap-0.0.1-alpha.dmg)
   * [备用地址](http://pkg-realign.test.upcdn.net/pic-cap/0.0.1-alpha/pic-cap-0.0.1-alpha.dmg)
 * win-0.0.1-alpha
