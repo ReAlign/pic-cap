@@ -39,9 +39,13 @@
 
 ### 0.0.1-alpha
 
-[下载地址](https://github.com/ReAlign/pic-cap/blob/master/versions/0.0.1-alpha)
-
 * 基础截图
   * 详细信息待完善
 * nos 可视化
   * 详细信息待完善
+
+下载地址
+
+* [mac-0.0.1-alpha](https://file.realign.pro/pic-cap/0.0.1-alpha/pic-cap-0.0.1-alpha.dmg)
+  * [备用地址](http://pkg-realign.test.upcdn.net/pic-cap/0.0.1-alpha/pic-cap-0.0.1-alpha.dmg)
+* win-0.0.1-alpha
